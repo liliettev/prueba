@@ -1,0 +1,23 @@
+body{
+
+    background-color: blue;
+    box-sizing: border-box;
+}
+.principal{
+    width: auto;
+    margin: 50px;
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+.mujer{
+
+    
+    
+    border-radius: 20px;
+    cursor: pointer;
+    
+}
